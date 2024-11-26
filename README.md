@@ -3,6 +3,13 @@
 ### About
 ------------
 This repository is the official PyTorch implementation of GAPPA. 
+Please cite this paper if you applied this work.
+
+GAPPA: Enhancing prognosis prediction in primary aldosteronism post-adrenalectomy using graph-based modeling
+Artificial Intelligence in Medicine
+2025-01 | Journal article
+DOI: 10.1016/j.artmed.2024.103028
+Contributors: Pei-Yan Li; Yu-Wen Huang; Vin-Cent Wu; Jeff S. Chueh; Chi-Shin Tseng; Chung-Ming Chen
 
 ### Usages:
 ------------
