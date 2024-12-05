@@ -11,6 +11,8 @@ Artificial Intelligence in Medicine
 DOI: 10.1016/j.artmed.2024.103028
 Contributors: Pei-Yan Li; Yu-Wen Huang; Vin-Cent Wu; Jeff S. Chueh; Chi-Shin Tseng; Chung-Ming Chen
 
+https://doi.org/10.1016/j.artmed.2024.103028
+
 ### Usages:
 ------------
 
